@@ -1,3 +1,11 @@
+---
+layout: post
+title: Introduction
+cover: cover.jpg
+date:   2020-05-31 12:00:01
+categories: posts
+---
+
 This article is the first out of four posts of the _Machine Learning in Talent Hiring_ series. In this first blog post, we will discuss a little bit about what motivates the implementation of machine learning applications in the hiring process. The [second post](https://donyeun.github.io/2020/05/31/examples-of-machine-learning-projects-in-recruitment-process.html) will discuss several machine learning applications that can potentially be incorporated within the field of recruitment. The [third post](https://donyeun.github.io/2020/05/31/ethical-aspects-of-machine-learning-applications-in-talent-hiring.html) in the series will talk about several caveats and ethical aspects of applying machine learning techniques in the process of talent recruitment. Lastly, the [fourth post](https://donyeun.github.io/2020/05/31/summary.html) will summarise all the prior posts about incorporating machine learning in the recruitment funnel.
 
 ---
