@@ -1,3 +1,11 @@
+---
+layout: post
+title: Ethical Aspects of ML Applications in Talent Hiring
+cover: cover.jpg
+date:   2020-05-31 12:00:01
+categories: posts
+---
+
 This is the third article out of four posts in the _Machine Learning in Talent Hiring_ series. The [first post](https://donyeun.github.io/2020/05/31/introduction.html) discusses the introduction of machine learning capability to be applied to the employee recruitment process within a company, as well as the motivation behind it. The [second post](https://donyeun.github.io/2020/05/31/examples-of-machine-learning-projects-in-recruitment-process.html) talks about several machine learning applications throughout the hiring process. The [last post](https://donyeun.github.io/2020/05/31/summary.html) will talk about the summary of why we should implement machine learning applications in the recruitment sector, as well as the summary of algorithms, applications and several caveats that need to be taken into consideration when building the machine learning systems.
 
 In this post, we will discuss several warnings, especially in relating to ethical aspects of applying machine learning techniques within the talent hiring process. Several examples of potential ethical issues and things that need to take into consideration will also be discussed.
