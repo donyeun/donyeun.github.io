@@ -1,3 +1,11 @@
+---
+layout: post
+title: Summary
+cover: cover.jpg
+date:   2020-05-31 12:00:00
+categories: posts
+---
+
 This article is the last out of four posts of the _Machine Learning in Talent Hiring_ series. In this last post, we will briefly summarise the motivation on applying machine learning in the recruitment process, as well as its examples of applications and the caveats from an ethical perspective on using machine learning as a tool.
 
 ---
