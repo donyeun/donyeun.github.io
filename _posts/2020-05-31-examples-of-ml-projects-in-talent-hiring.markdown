@@ -2,11 +2,11 @@
 layout: post
 title: Examples of ML Projects In Talent Hiring
 cover: cover.jpg
-date:   2020-05-31 12:00:02
+date:   2020-05-31 14:00:02
 categories: posts
 ---
 
-This article is the second out of four posts of the _Machine Learning in Talent Hiring_ series. The [first post](https://donyeun.github.io/2020/05/31/introduction.html) discusses a little bit about what motivates applying machine learning in the hiring process. The [third post](https://donyeun.github.io/2020/05/31/ethical-aspects-of-machine-learning-applications-in-talent-hiring.html) in the series talks about several takeaways and ethical aspects of applying machine learning techniques within the recruitment field. The [last post](https://donyeun.github.io/2020/05/31/summary.html) will talk about the summary of why we should implement machine learning applications in the recruitment sector, as well as the summary of algorithms, applications and several caveats that need to be taken into consideration when building the machine learning systems.
+This article is the second out of four posts of the _Machine Learning in Talent Hiring_ series. The [first post](https://donyeun.github.io/2020/05/31/introduction.html) discusses a little bit about what motivates applying machine learning in the hiring process. The [third post](https://donyeun.github.io/posts/2020/05/31/ethical-aspects-of-ml-applications-in-talent-hiring.html) in the series talks about several takeaways and ethical aspects of applying machine learning techniques within the recruitment field. The [last post](https://donyeun.github.io/2020/05/31/summary.html) will talk about the summary of why we should implement machine learning applications in the recruitment sector, as well as the summary of algorithms, applications and several caveats that need to be taken into consideration when building the machine learning systems.
 
 This blog post is dedicated to discussing several examples of ML applications of each significant subtask in the recruitment pipeline. Amongst others, the first application that will be discussed is the paper from LinkedIn, on getting better talent searching by considering engagement between candidate and recruiter.
 
