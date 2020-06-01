@@ -2,7 +2,7 @@
 layout: post
 title: Ethical Aspects of ML Applications in Talent Hiring
 cover: cover.jpg
-date:   2020-05-31 12:00:01
+date:   2020-05-31 12:00:03
 categories: posts
 ---
 
